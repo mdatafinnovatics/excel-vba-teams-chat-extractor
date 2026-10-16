@@ -58,7 +58,7 @@ See Attachments
 ## Related project
 
 Extracted chats can be converted into structured insights using
-Generative AI here: [Excel AI Chat Insights](PASTE-AI-PROJECT-ADDRESS-HERE)
+Generative AI here: [Excel AI Chat Insights](https://github.com/mdatafinnovatics/excel-ai-chat-insights)
 
 ## About
 
