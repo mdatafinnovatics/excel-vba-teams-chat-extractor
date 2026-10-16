@@ -16,7 +16,7 @@ Works on both **Windows** and **Mac** versions of Excel.
 ## Sample output
 
 | Team | Channel | Date | Time | Sender | Message |
-|------|------|--------|----------------|---------|
+|------|------|--------|-------|---------|---------|
 | Express Mobile Storage | Team Group | 06-Sep-2026 | 10:22:36 | Jacob Shapero | Hello |
 | Express Mobile Storage | Team Group | 06-Sep-2026 | 10:16:57 | Jacob Shapero | Are you there? |
 
